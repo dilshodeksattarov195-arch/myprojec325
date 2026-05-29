@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcelete",
+        "uuid": 2987400,
+        "checksum": "xn8ae"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
